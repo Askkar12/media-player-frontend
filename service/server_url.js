@@ -1,1 +1,1 @@
-export const server_url = 'http://localhost:3000'
+export const server_url = 'https://media-server-7muq.onrender.com/'
