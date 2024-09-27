@@ -1,1 +1,1 @@
-export const server_url = 'https://media-server-7muq.onrender.com/'
+export const server_url = 'https://media-server-7muq.onrender.com'
